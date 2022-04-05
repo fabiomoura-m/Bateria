@@ -1,6 +1,6 @@
 # Bateria
 
-![bateria](https://user-images.githubusercontent.com/93055468/161661968-b7df764c-56c1-4bed-a99c-c2f0f740e69c.jpg)
+<img src= "https://user-images.githubusercontent.com/93055468/161663169-ca952a85-204a-4cee-a375-3e2f72501213.jpg" width="800px">
 
 ## 📋 Descrição
 
